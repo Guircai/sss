@@ -9,6 +9,9 @@ import java.util.List;
 
 /**
  * Description：
+ * 测速接口：
+ * 			http://localhost:8080/user/findAll
+ * 
  * Author: Guir
  * Create: 2021/10/13 2:27
  **/
